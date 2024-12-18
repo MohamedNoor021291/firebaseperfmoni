@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1016943769145",
+    "project_id": "fir-perfmoni",
+    "storage_bucket": "fir-perfmoni.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1016943769145:android:21e2f9a61907e86230ffe8",
+        "android_client_info": {
+          "package_name": "com.example.firebaseperfmoni"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVpjfj8GHZUDDKwB62dIMzyyTXp21u1_c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
